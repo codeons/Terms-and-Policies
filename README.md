@@ -102,7 +102,7 @@ To ensure a respectful and productive environment for all members, we uphold str
 - **Outstanding Obligations:** Termination does not relieve members of any outstanding financial or other responsibilities to the club.
 - **Intellectual Property:** Any shared resources or collaborative projects involving the terminated member will be managed according to the club's intellectual property guidelines.
 - **Return of Club Property:** Terminated members must promptly return any borrowed club equipment or resources.
-- Legal Action: The club may pursue legal action if a terminated member's actions have caused harm or violated applicable laws.
+- **Legal Action:** The club may pursue legal action if a terminated member's actions have caused harm or violated applicable laws.
 - **Confidentiality and Privacy Obligations:** Termination does not release members from their obligations to uphold confidentiality and privacy clauses as outlined in the club's terms and conditions.
 - **Dispute Resolution:** This section is subject to the general dispute resolution procedures outlined in `Dispute Resolution`.
 
@@ -195,40 +195,4 @@ We value your feedback! If you have suggestions for improvement, please don't he
 
 ### 8.3 Keeping It Official:
 By participating in the Coding Club, you agree to follow the latest version of our terms and policies. You can always find them here.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
