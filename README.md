@@ -1,13 +1,13 @@
 # Terms and Policies 📑
 ## Content :
-[**1. Introduction**](https://link-url-here.org)
-[**2.Membership**](https://link-url-here.org)
-[**3. Code oF Conduct**](https://link-url-here.org)
-[**4. Meetings**](https://link-url-here.org)
-[**5. Dispute Resolution Policy**](https://link-url-here.org)
-[**6. Membership Termination and Consequences**](https://link-url-here.org)
-[**7. Privacy and Data Handling Policy**](https://link-url-here.org)
-[**8. Updates and Changes**](https://link-url-here.org)
+[**1. Introduction**](https://link-url-here.org)  
+[**2.Membership**](https://link-url-here.org)  
+[**3. Code oF Conduct**](https://link-url-here.org)  
+[**4. Meetings**](https://link-url-here.org)  
+[**5. Dispute Resolution Policy**](https://link-url-here.org)  
+[**6. Membership Termination and Consequences**](https://link-url-here.org)  
+[**7. Privacy and Data Handling Policy**](https://link-url-here.org)  
+[**8. Updates and Changes**](https://link-url-here.org)  
 ****
 
 ## 1. Introduction
