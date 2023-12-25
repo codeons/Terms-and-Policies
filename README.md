@@ -1,13 +1,13 @@
 # Terms and Policies 📑
 ## Content :
-[**1. Introduction**](https://link-url-here.org)  
-[**2.Membership**](https://link-url-here.org)  
-[**3. Code oF Conduct**](https://link-url-here.org)  
-[**4. Meetings**](https://link-url-here.org)  
-[**5. Dispute Resolution Policy**](https://link-url-here.org)  
-[**6. Membership Termination and Consequences**](https://link-url-here.org)  
-[**7. Privacy and Data Handling Policy**](https://link-url-here.org)  
-[**8. Updates and Changes**](https://link-url-here.org)  
+[**1. Introduction**](https://github.com/codeons/Terms-and-Policies#1-introduction)  
+[**2.Membership**](https://github.com/codeons/Terms-and-Policies#2-membership)  
+[**3. Code oF Conduct**](https://github.com/codeons/Terms-and-Policies#3-code-of-conduct)  
+[**4. Meetings**](https://github.com/codeons/Terms-and-Policies#4-meetings)  
+[**5. Dispute Resolution Policy**](https://github.com/codeons/Terms-and-Policies#5-dispute-resolution-policy)  
+[**6. Membership Termination and Consequences**](https://github.com/codeons/Terms-and-Policies#6-membership-termination-and-consequences)  
+[**7. Privacy and Data Handling Policy**](https://github.com/codeons/Terms-and-Policies#7-privacy-and-data-handling-policy)  
+[**8. Updates and Changes**](https://github.com/codeons/Terms-and-Policies#8-updates-and-changes)  
 ****
 
 ## 1. Introduction
