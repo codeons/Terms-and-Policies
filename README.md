@@ -1,6 +1,6 @@
 # Terms and Policies 📑
 ## Content :
-[**1. Introduction**](https://github.com/codeons/Terms-and-Policies#1-introduction)  
+[**1. Introduction**](#1-introduction)  
 [**2.Membership**](https://github.com/codeons/Terms-and-Policies#2-membership)  
 [**3. Code oF Conduct**](https://github.com/codeons/Terms-and-Policies#3-code-of-conduct)  
 [**4. Meetings**](https://github.com/codeons/Terms-and-Policies#4-meetings)  
